@@ -1,3 +1,4 @@
+# Run this program for the 'Real-Time Chat' to work.
 # Imports
 from flask import Flask, render_template
 from flask_socketio import SocketIO, emit
